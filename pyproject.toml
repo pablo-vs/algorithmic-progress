@@ -1,0 +1,17 @@
+[project]
+name = "sparalgorithmic-progress"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "N"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "modal (>=1.1.4,<2.0.0)",
+    "matplotlib (>=3.10.6,<4.0.0)",
+    "numpy (>=2.3.3,<3.0.0)",
+    "pandas (>=2.3.2,<3.0.0)",
+    "omegaconf (>=2.3.0,<3.0.0)",
+    "hydra-core (>=1.3.2,<2.0.0)",
+]
