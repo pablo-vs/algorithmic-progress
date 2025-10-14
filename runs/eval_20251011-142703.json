@@ -1,0 +1,12 @@
+{
+  "config": {
+    "batch_size": null,
+    "batch_sizes": [],
+    "bootstrap_iters": 100000,
+    "device": null,
+    "fewshot_seed": 123,
+    "gen_kwargs": null,
+    "limit": 25,
+    "model": "hf",
+    "model_args": "pretrained=google/gemma-3-270m-it,device=cuda:0",
+    "model_dtype": 
