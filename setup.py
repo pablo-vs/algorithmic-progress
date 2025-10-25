@@ -11,7 +11,7 @@ image = (
         "torch==2.8.0",
         "transformers==4.56.1", 
         "accelerate==1.10.1",
-        "litgpt[extra]",
+        "litgpt[extra]==0.5.11",
         "omegaconf",
         "wandb"
     ).add_local_dir("data/train", remote_path="/data")
